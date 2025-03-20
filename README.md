@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **hanaelfaar2003@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hana-elfar-7b017a229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hana-elfar-7b017a229" height="30" width="40" /></a>
