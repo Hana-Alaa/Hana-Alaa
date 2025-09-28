@@ -12,11 +12,11 @@
 ---
 
 ## 💻 Technical Skills  
-**Programming & Libraries:** Python, C++, JavaScript, SQL, PHP, NumPy, Pandas, Matplotlib, Seaborn  
-**Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation & Tuning  
-**Deep Learning:** CNN, LSTM, TensorFlow, Keras, PyTorch  
-**Signal Processing:** EEG/ECG Preprocessing, Filtering, Normalization, Feature Extraction  
-**Tools & Platforms:** Git, GitHub, Streamlit, Flask, Kaggle, Flutter (AI integration), MySQL, PostgreSQL, Arduino  
+- **Programming & Libraries:** Python, C++, JavaScript, SQL, PHP, NumPy, Pandas, Matplotlib, Seaborn  
+- **Machine Learning:** Supervised & Unsupervised Learning, Feature Engineering, Model Evaluation & Tuning  
+- **Deep Learning:** CNN, LSTM, TensorFlow, Keras, PyTorch  
+- **Signal Processing:** EEG/ECG Preprocessing, Filtering, Normalization, Feature Extraction  
+- **Tools & Platforms:** Git, GitHub, Streamlit, Flask, Kaggle, Flutter (AI integration), MySQL, PostgreSQL, Arduino  
 
 ---
 
@@ -29,15 +29,15 @@
 
 ## 📚 Education
 - 🎓 BSc in Artificial Intelligence
-- 
+
 ---
 
 ## 🌐 Connect With Me  
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/hana-elfar-7b017a229" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="hana-elfar"/></a>
 <a href="mailto:hanaelfaar2003@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" alt="hana email"/></a>
 <a href="https://github.com/Hana-Alaa" target="blank"><img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white" alt="hana github"/></a>
-</p>  
+</p>
 
 ---
 
