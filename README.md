@@ -42,4 +42,6 @@
 ---
 
 ## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Alaa&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Alaa&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
