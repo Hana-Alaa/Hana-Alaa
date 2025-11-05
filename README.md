@@ -45,8 +45,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hana-Alaa&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
-### GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hana-Alaa&theme=radical" alt="GitHub Activity Graph"/>
-</p>
 
